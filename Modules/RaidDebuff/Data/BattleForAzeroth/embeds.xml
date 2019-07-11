@@ -1,0 +1,8 @@
+﻿<Ui xmlns="http://www.blizzard.com/wow/ui/">
+	<Script file="Azurethos.lua"/>
+	<Script file="Uldir.lua"/>
+	<Script file="PartyDungeons.lua"/>
+	<Script file="ZuldazarRaid.lua" />
+	<Script file="CrucibleofStorms.lua" />
+	<Script file="EternalPalace.lua" />
+</Ui>
